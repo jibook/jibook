@@ -29,7 +29,6 @@
   <img src="https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastpai&logoColor=white"/></a>&nbsp
 
 
-<br><br>
 <br>
 
 
